@@ -1,14 +1,4 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/ARProject/blob/main/Imgs/1.jpg' width=880>
-</p>
-<p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ARProject/blob/main/Imgs/2.jpg' width=880>
-</p>
-<p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ARProject/blob/main/Imgs/3.jpg' width=880>
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/Engine-Unity-white" alt="Unity Version">
     <img src="https://img.shields.io/badge/Version-Beta-blue" alt="Project Version">
 </p>
