@@ -17,13 +17,13 @@
 ## Скриншоты
 
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ARProject/blob/main/Imgs/Screenshot1.jpg' width=440>
+      <img src='https://github.com/PiRaMiDeON/TestProject-AR-/blob/main/Imgs/Screenshot1.jpg' width=880>
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ARProject/blob/main/Imgs/Screenshot2.jpg' width=440> 
+      <img src='https://github.com/PiRaMiDeON/TestProject-AR-/blob/main/Imgs/Screenshot2.jpg' width=880> 
 </p>
 <p align="center"> 
-      <img src='https://github.com/PiRaMiDeON/ARProject/blob/main/Imgs/Screenshot3.jpg' width=440>
+      <img src='https://github.com/PiRaMiDeON/TestProject-AR-/blob/main/Imgs/Screenshot3.jpg' width=880>
 </p>
 
 ## Процесс разработки
