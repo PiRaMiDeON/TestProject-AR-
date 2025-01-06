@@ -1,4 +1,8 @@
 <p align="center">
+      <img src='https://github.com/PiRaMiDeON/TestProject-AR-/blob/main/Imgs/Main.png'>
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/Engine-Unity-white" alt="Unity Version">
     <img src="https://img.shields.io/badge/Version-Beta-blue" alt="Project Version">
 </p>
